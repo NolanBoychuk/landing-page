@@ -26,6 +26,7 @@ body {
 }
 a {
     color:lightgrey;
+    text-decoration:none;
 }
 .headerRight {
     display:flex;
